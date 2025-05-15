@@ -52,8 +52,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🧠 AI Mock Interview App](https://github.com/Hrushikesh295/ai-mock-interview) | Streamlit-based app that simulates job interviews using Gemini AI. Includes resume parsing, audio input, feedback generation, and a study chatbot. | `Streamlit`, `Gemini`, `Python`, `Flask` |
-| [🩺 Thorax AI Chest](https://github.com/Hrushikesh295/thorax-ai-chest) | Medical AI project to analyze chest X-rays and assist in early diagnosis of thoracic diseases using machine learning. | `Python`, `Pandas`, `ML`, `Streamlit` |
+| [🧠 AI Mock Interview App](https://github.com/Hrushikesh295/AI_mock_interview) | Streamlit-based app that simulates job interviews using Gemini AI. Includes resume parsing, audio input, feedback generation, and a study chatbot. | `Streamlit`, `Gemini`, `Python`, `Flask` |
+| [🩺 Thorax AI Chest](https://github.com/Hrushikesh295/ThroaxAI) | Medical AI project to analyze chest X-rays and assist in early diagnosis of thoracic diseases using machine learning. | `Python`, `Pandas`, `ML`, `Streamlit` |
 
 ---
 
